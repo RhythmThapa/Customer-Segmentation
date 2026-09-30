@@ -1,0 +1,4 @@
+Model,Silhouette Score,Davies-Bouldin Score,Training Time (seconds)
+K-Means,0.3547,1.0444,0.023
+Agglomerative Clustering,0.3193,1.0958,1.962
+Gaussian Mixture,0.3014,1.1768,0.408
